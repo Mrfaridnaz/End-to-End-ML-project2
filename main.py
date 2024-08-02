@@ -1,1 +1,3 @@
-from src.config.configuration import main
+from src.mlProject import logger
+
+logger.info("I live in India")
